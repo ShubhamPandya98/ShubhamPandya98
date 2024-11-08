@@ -2,22 +2,22 @@
 
 ### 👤 About Me:
 
-Hello! I'm **Shubham Pandya**, a data enthusiast and engineering professional based in Boston, MA. Currently, I'm advancing my skills by pursuing a Master's in Data Analytics and Engineering at Northeastern University, with an expected graduation in August 2024. With a solid foundation in mechanical engineering and a deep passion for data-driven solutions, I've transitioned into data engineering, where I strive to bridge the gap between data and actionable insights.
+Hello! I'm **Shubham Pandya**, a data enthusiast and engineering professional based in Boston, MA. I graduated with a Master's in Data Analytics and Engineering from Northeastern University in August 2024. Currently, I am continuing my journey as a Software Developer Cloud II at Wolfspeed, where I apply my skills to bridge the gap between data and actionable insights in real-time cloud environments.
 
-During my co-op at Wolfspeed and my tenure at Larsen & Toubro Infotech, I've developed robust data pipelines, implemented efficient data integrations, and led analytics projects that significantly improved operational efficiencies. My academic projects, such as optimizing HVAC unit logistics, classifying census income levels, and predicting cab service prices, highlight my ability to apply theoretical knowledge in practical, impactful ways.
+My academic background in mechanical engineering and hands-on experience in data engineering have equipped me with a robust skill set. Through roles at Wolfspeed and Larsen & Toubro Infotech, I’ve built and optimized data pipelines, managed data integrations, and led analytics initiatives that have driven measurable improvements in operational efficiency and data accuracy.
 
 ### 💼 Professional Snapshot:
 
-- **Wolfspeed**: Engineered complex data pipelines integrating Model N, S4HANA, and Oracle with Snowflake, leveraging tools like DBT, SQLFluff, and Azure DevOps to enhance data integrity and streamline processes. Utilized machine learning models for predictive analytics, resulting in a 20% improvement in forecast accuracy.
+- **Wolfspeed**: In my full-time role, I develop and maintain complex data pipelines integrating Model N, S4HANA, and Oracle with Snowflake, using tools like DBT, SQLFluff, and Azure DevOps. I leverage machine learning for predictive analytics, achieving a 20% boost in forecast accuracy and enhancing data integrity across systems.
 - **Larsen & Toubro Infotech**: Spearheaded SAP CPI implementations and ERP migrations, boosting data migration efficiency by 20% and system integration through strategic use of technology, including adapters and real-time data analysis using SAP Fiori.
 
 ### 🛠 Technical Toolbox:
 
-- **Languages**: Python, SQL, Java, C++, R, JavaScript, HTML, CSS
-- **Tools & Platforms**: AWS, Snowflake, Power BI, Tableau, MySQL, Azure, MATLAB, Firebase
-- **Databases**: MongoDB, S4HANA, Hadoop, Apache Spark, Microsoft Azure S3, Model N
+- **Languages**:          Python, SQL, Java, C++, R, JavaScript, HTML, CSS
+- **Tools & Platforms**:  AWS, Snowflake, Azure, MATLAB, Firebase
+- **Databases**: MongoDB, S4HANA, MySQL, PostgreSQL, Hadoop, Apache Spark, Microsoft Azure S3, Model N
 - **Data Visualization**: Power BI, Power Query, Tableau, Google Data Studio, SAP Fiori, Flourish
-- **Scripting**: PowerShell, Groovy Script, DAX
+- **Scripting**:          PowerShell, Groovy Script, DAX
 
 ### 🌟 Projects & Impact:
 
